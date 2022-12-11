@@ -1,2 +1,2 @@
 https://github.com/darianisimova/rsschool-cv/blob/gh-pages/cv.md
-https://GITHUB-USERNAME.github.io/rsschool-cv/
+https://darianisimova.github.io/rsschool-cv/
